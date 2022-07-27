@@ -22,18 +22,71 @@ button {
     border: none;
     display: block;
     margin: 0 auto;
+}
+
+.hero-section {
+    display: block;
+    height: 68vh;
+    min-height: 630px;
+    width: 60vw;
+    min-width: 558px;
+    background-image: url('/img/hero-image.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin: 0 auto;
+    margin-bottom: 8.4em;
+    padding-top: 8.75em;
+}
+
+.hero-box {
+    background-color: white;
+    width: 29vw;
+    min-width: 500px;
+    height: 22.5em;
+    margin: 0 auto;
     
 }
 
 .hero-title {
-    font-family: 'Butler';
+    font-family: 'Butler', serif;
     font-weight: 400;
     font-size: 5.4em;
-
+    text-align: center;
+    padding-top: 1.4em; 
 }
 
 .hero-subtitle {
     font-family: 'Roboto', sans-serif;
     font-weight: 700;
     font-size: 1.1em;
+    text-align: center;
+    margin-top: 1.7em;
+}
+
+.bg-element {
+    display: flex;
+    flex-direction: row;
+}
+
+.first-element {
+    position: absolute;
+    top: 810px;
+    left: 1050px;
+}
+
+
+.line {
+    width: 22px;
+    height: 1px;
+    background-color: #8C8888;
+    margin-top: 10px;
+    margin-right: 5px;
+}
+
+.text {
+    font-family: 'Butler', serif;
+    font-weight: 400;
+    font-size: 1.1em;
+    color: #8C8888;
 }
