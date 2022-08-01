@@ -1,10 +1,16 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
 
 @font-face {
     font-family: 'Roboto';
     src: local('Roboto Regular'), local('Roboto-Regular'), url('/fonts/roboto/Roboto-Regular.ttf') format('truetype');
     font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: local('Roboto Medium'), local('Roboto-Medium'), url('/fonts/roboto/Roboto-Medium.ttf') format('truetype');
+    font-weight: 500;
     font-style: normal;
 }
 
