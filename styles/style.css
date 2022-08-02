@@ -1,0 +1,70 @@
+:root {
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+    line-height: 1.3rem;
+}
+
+body {
+    box-sizing: border-box;
+}
+
+img {
+    max-height: 30vh;
+}
+
+h1 {
+    font-family: 'Butler', 'Times New Roman', Times, serif;
+    font-weight: 400;
+    font-size: 5.4rem;
+}
+
+h2 {
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 1.1rem;
+}
+
+h3 {
+    font-family: 'Butler', 'Times New Roman', Times, serif;
+    font-weight: 300;
+    font-size: 5.4rem;
+}
+
+article h3 {
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 1rem;
+}
+
+article p {
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    font-size: 1rem;
+}
+
+blockquote {
+    font-family: 'Butler', 'Times New Roman', Times, serif;
+    font-weight: 300;
+    font-size: 2rem;
+}
+
+span {
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 1rem;
+}
+
+a {
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    font-size: 1rem;
+}
+
+li {
+    font-family: 'Butler', 'Times New Roman', Times, serif;
+    font-weight: 200;
+    font-size: 2.1rem;
+}
+
+
