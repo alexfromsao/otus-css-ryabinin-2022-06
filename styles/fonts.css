@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+
+
+@font-face {
+    font-family: 'Butler';
+    src: url('/fonts/butler/Butlermedium.woff2') format('woff2'), url('/fonts/butler/Butlerultralight.woff') format('woff'), url('/fonts/butler/Butlerultralight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Butler';
+    src: url('/fonts/butler/Butlerlight.woff2') format('woff2'), url('/fonts/butler/Butlerlight.woff') format('woff'), url('/fonts/butler/Butlerlight.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Butler';
+    src: url('/fonts/butler/Butler.woff2') format('woff2'), url('/fonts/butler/Butler.woff') format('woff'), url('/fonts/butler/Butler.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Butler';
+    src: url('/fonts/butler/Butlermedium.woff2') format('woff2'), url('/fonts/butler/Butlermedium.woff') format('woff'), url('/fonts/butler/Butlermedium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
